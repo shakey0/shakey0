@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">♫ I have a BA (Hons) degree majoring in music composition.<br>🧪 I worked in a microbiology lab for 3 years.<br>👨‍🏫 I taught English in South Korea and China for 7 years.<br>#️⃣ I now code and love making little games, backend focused web apps and deploying things!</p>
+<p align="left">♫ I have a BA (Hons) degree majoring in music composition.<br>🧪 I worked in a microbiology lab for 3 years.<br>👨‍🏫 I taught English in South Korea and China for 7 years.<br>#️⃣ I now code and love making little games, backend focused web apps with databases, and deploying things!</p>
 
 ###
 
