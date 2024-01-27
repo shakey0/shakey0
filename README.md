@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">♫ I have a BA (Hons) degree majoring in music composition.<br>🧪 I worked in a microbiology lab for 3 years.<br>👨‍🏫 I taught English in South Korea and China for 7 years.<br>#️⃣ I now code and love making little games, backend focused web apps with databases, and deploying things!</p>
+<p align="left">♫ I have a BA (Hons) degree majoring in music composition.<br>🧪 I worked in a microbiology lab for 3 years.<br>👨‍🏫 I taught English in South Korea and China for 7 years.<br>#️⃣ I now code and love making little games, backend focused web apps with caching systems and complex databases, and deploying things!</p>
 
 ###
 
@@ -54,16 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" height="40" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="40" alt="trello logo"  />
   <img width="12" />
