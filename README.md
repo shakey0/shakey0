@@ -19,23 +19,23 @@
 ###
 
 <div align="left">
-  <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="Ruby" height="40" />
-  <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="Rails" height="40" />
-  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="React" height="40" />
-  <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="Sass" height="40" />
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" height="40" />
-  <img src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=currentColor" alt="Node.js" height="40" />
-  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Python" height="40" />
-  <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" alt="Django" height="40" />
-  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="PostgreSQL" height="40" />
-  <img src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" alt="Redis" height="40" />
-  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="Git" height="40" />
-  <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" alt="AWS" height="40" />
-  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="Docker" height="40" />
-  <img src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" alt="NGINX" height="40" />
-  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Linux" height="40" />
-  <img src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" alt="Debian" height="40" />
-  <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=128&color=currentColor" alt="Ubuntu" height="40" />
+  <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="Ruby" height="80" />
+  <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="Rails" height="80" />
+  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="React" height="80" />
+  <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="Sass" height="80" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" height="80" />
+  <img src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=currentColor" alt="Node.js" height="80" />
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Python" height="80" />
+  <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" alt="Django" height="80" />
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="PostgreSQL" height="80" />
+  <img src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" alt="Redis" height="80" />
+  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="Git" height="80" />
+  <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" alt="AWS" height="80" />
+  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="Docker" height="80" />
+  <img src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" alt="NGINX" height="80" />
+  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Linux" height="80" />
+  <img src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" alt="Debian" height="80" />
+  <img src="https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=currentColor" alt="Ubuntu" height="80" />
 </div>
 
 ###
